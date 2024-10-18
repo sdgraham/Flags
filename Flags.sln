@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flags", "FlagsTest\Flags.csproj", "{B0366C6B-3868-4904-B49D-47FADDAF8767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0366C6B-3868-4904-B49D-47FADDAF8767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0366C6B-3868-4904-B49D-47FADDAF8767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0366C6B-3868-4904-B49D-47FADDAF8767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0366C6B-3868-4904-B49D-47FADDAF8767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CE180E3-5F69-4687-9FF7-405892F917CA}
+	EndGlobalSection
+EndGlobal
